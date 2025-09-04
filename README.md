@@ -1,5 +1,10 @@
 # Introduction to me
 ## **HASSAN ALI KHAN**
+**NAME: Hassan Ali Khan**
+<br/>
+Degree program: BSAI
+<br/>
+Hobby: Reading Books
 <br/>
 HELLOO! I'm a FASTian and new to programming. But I am interested in coding since I was 14.
 <br/>
