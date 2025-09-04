@@ -1,5 +1,7 @@
-#Introduction to me
-##**HASSAN ALI KHAN** I'm a FASTian and new to programming. But I am interested in coding since I was 14.
+# Introduction to me
+## **HASSAN ALI KHAN**
+<br/>
+I'm a FASTian and new to programming. But I am interested in coding since I was 14.
 <br/>
 _what I have done and forgot:_
 - html
